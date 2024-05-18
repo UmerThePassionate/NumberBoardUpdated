@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "606286777966",
+    "project_id": "stepup-auth-720ef",
+    "storage_bucket": "stepup-auth-720ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606286777966:android:83ef7f210bb963a9cca07f",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.MathForKids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFe8JMNGXX3L6Q01uMgFyPQ6jfe-i_Hu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
